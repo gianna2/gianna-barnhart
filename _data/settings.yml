@@ -94,7 +94,7 @@ skills-title: Skills
 skills:
 - {name: Leadership, color: '#fdb157', value: '90%'}
 - {name: Digital Marketing, color: '#9473e6', value: '60%'}
-- {name: Career Coaching, color: '#bdecf6', value: '80%'}
+- {name: Career Coaching, color: '#bdecf6', value: '30%'}
 - {name: Project Management, color: '#ffbcaa', value: '70%'}
 
 
@@ -113,10 +113,9 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: B.S Integrated Studies, date: '2019 - 2021', organization: 'Champlain College | Burlington, VT'}
+- {name: B.S. Neuroscience, date: '2017 - 2019', organization: 'University of Vermont | Burlington, VT'}
+- {name: High School, date: '2017', organization: 'Brunswick High School | Brunswick, ME'}
 
 
 #-------------------------------
