@@ -50,7 +50,7 @@ social:
 
 # About Section
 blurb:
-Digital Marketing, Organizational Development, Career Coaching 
+Champlain 2021 | Digital Marketing, Organizational Development, Career Coaching 
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -93,10 +93,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Leadership, color: '#fdb157', value: '90%'}
+- {name: Digital Marketing, color: '#9473e6', value: '60%'}
+- {name: Career Coaching, color: '#bdecf6', value: '80%'}
+- {name: Project Management, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -104,9 +104,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Digital Marketing & Administrative Specialist, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+- {name: Peer Financial & Career Coach, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Research Coordinator, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
