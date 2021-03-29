@@ -38,11 +38,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Gianna
+  hero-title: Hi! I’m <br> Gianna <br>
 
 social:
-- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/giannabarnhart/"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/gianna.scott"}
 - {icon: "ti-instagram", link: "https://www.instagram.com/gianna_o2/"}
+- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -50,7 +52,7 @@ social:
 
 # About Section
 blurb:
-Digital Marketing, Organizational Development, Career Coaching 
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
