@@ -38,11 +38,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Gianna <br> Champlain 2021
+  hero-title: Hi! I’m <br> Gianna <br>
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/gianna.scott"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/gianna_o2/"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
