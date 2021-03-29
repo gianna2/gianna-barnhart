@@ -104,9 +104,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Digital Marketing & Administrative Specialist, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: Peer Financial & Career Coach, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Research Coordinator, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Digital Marketing & Administrative Specialist, icon: 'icon-1.png', date: 'Dec 2019 - Current', organization: 'Evolution PT & Yoga'}
+- {name: Peer Financial & Career Coach, icon: 'icon-2.png', date: 'Aug 2020 - Current', organization: 'Champlain College'}
+- {name: Research Coordinator, icon: 'icon-3.png', date: 'Dec 2018 - Sept 2019', organization: 'Univerity of Vermont'}
 
 
 #-------------------------------
