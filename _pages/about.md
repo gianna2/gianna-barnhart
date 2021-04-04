@@ -1,18 +1,15 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Gianna Barnhart
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Welcome to my website and thank you for taking the time to explore. I made this wedsite after semi-impulsively buying my name domain and decided to take it on as a little side project. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I'm living in Winooski, VT with my little house family, two dogs, and a cat. We've been at our current residence for several years now and love the Winooski community. For work, I am employed by both Evolution Physical Therapy & Yoga and Champlain College. For Evolution, I spearhead marketing and manage their social media, in addition to administrative duties related to the physical therapy side of the business. This fall I accepted a job with Champlain's career collaborative. In the fall semester, I served as a Peer Financial Coach with the Champlain Career Collaborative. As a financial coach, I helped students develop financial literacy skills and facilitated events--virtually due to COVID restrictions. Currently, through May, I am now operating as a Peer Career Coach in a similar capacity. As a career coach, I work with students one-on-one to identify and search for jobs, find resources, prepare application materials, and complete required InSight Milestones. Though I love both my current employers, I am preparing to apply for post-graduation jobs and hope to start a full-time postion by Fall 2021.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+A little bit more about my background...
+
+I grew up in Maine, in a small coastal community, with one younger sister. My parents got divorced, quite messily, when I was in elementary school and we split our time between their houses. I started working as soon as I possibly could--completing a Red Cross babysitting certification course at 11 years old. Subsequently, I started babysitting and, eventually, becoming an after-school nanny in 8th grade. I volunteered extensively through middle and high school.  I was never able to attend sleep-away camps, so I often filled up summer free time by volunteering with the local Parks and Recreation department and other community service organizations. When I could legally work, at 15 years old, I got a waitressing job at a local rehabilitation and retirement facility. During my time at that job, I began fainting with increasing frequency and was forced to switch back to nannying, since it didn't require prolonged standing. I originally came to Vermont to attend the University of Vermont, where I majored in neuroscience. I really liked the neuroscience program but knew I wasn't interested in medical school. Due to changes in my financial situation, I was able to get better financial aid at Champlain College so I made the decide to transfer. I am earning my B.S. in Integrated Studies with additional certificates realted to my areas of concetration: digital marketing, organizational development & HR, and project management. 
