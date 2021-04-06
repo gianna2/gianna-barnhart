@@ -126,7 +126,7 @@ services:
 - {
     name: Art and Photography,
     icon: ti-palette,
-    description: 'Art has always been a big, often therapeutic, part of my life. I studied art through my senior year of high school and still enjoy it my free time. Art takes many forms in my life, whether on a canvas, piece of paper, computer screen, through a camera lense, and in everyday life.' 
+    description: 'Art has always been a big, often therapeutic, part of my life. I studied art through my senior year of high school and still enjoy it my free time. Art takes many forms in my life, whether on a canvas, piece of paper, computer screen, through a camera lense, and in everyday life.', 
     active: # Add true to select section
   }
 - {
