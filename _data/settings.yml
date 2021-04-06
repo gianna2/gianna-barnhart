@@ -92,9 +92,9 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Leadership, color: '#fdb157', value: '90%'}
-- {name: Digital Marketing, color: '#9473e6', value: '60%'}
-- {name: Career Coaching, color: '#bdecf6', value: '30%'}
+- {name: Content Design, color: '#fdb157', value: '80%'}
+- {name: Digital Marketing, color: '#9473e6', value: '70%'}
+- {name: Leadership & Career Coaching, color: '#bdecf6', value: '50%'}
 - {name: Project Management, color: '#ffbcaa', value: '70%'}
 
 
@@ -105,7 +105,7 @@ experience-title: Experience
 experience:
 - {name: Digital Marketing & Administrative Specialist, icon: 'icon-1.png', date: 'Dec 2019 - Current', organization: 'Evolution PT & Yoga'}
 - {name: Peer Financial & Career Coach, icon: 'icon-2.png', date: 'Aug 2020 - Current', organization: 'Champlain College'}
-- {name: Research Coordinator, icon: 'icon-3.png', date: 'Dec 2018 - Sept 2019', organization: 'Univerity of Vermont'}
+- {name: Research Coordination, icon: 'icon-3.png', date: 'Dec 2018 - Sept 2019', organization: 'Univerity of Vermont'}
 
 
 #-------------------------------
@@ -121,24 +121,24 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Interests
 services:
 - {
-    name: UI Design,
+    name: Art and Photography,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Art has always been a big, often therapeutic, part of my life. I studied art through my senior year of high school and still enjoy it my free time. Art takes many forms in my life, whether on a canvas, piece of paper, computer screen, through a camera lense, and in everyday life.' 
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Advocacy and Career Coaching,
+    icon: ti-heart,
+    description: 'I love helping people solve everyday problems, like finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Research,
+    icon: ti-search,
+    description: 'I really enjoy research which is what originally drew me to the sciences. I have experience reading and interpreting scientific writing, as well as confucting studies and working in a lab environment. These days, I find myself looking into international events, social issues, and technology.',
     active: # Add true to select section
   }
 
