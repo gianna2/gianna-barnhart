@@ -124,25 +124,23 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Art and Photography,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Art has always been a big, often therapeutic, part of my life. I studied art through my senior year of high school and still enjoy it my free time. Art takes many forms in my life, whether on a canvas, piece of paper, computer screen, through a camera lense, and in everyday life.', 
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
+    name: Advocacy and Career Coaching,
+    icon: ti-heart,
+    description: 'I love helping people solve everyday problems, like <strong>finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.</strong> I've taken on advocacy roles professionally, as well as in my personal. ',
+    active: # Add true to select section
+   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Research,
+    icon: ti-search,
+    description: 'I really enjoy research which is what originally drew me to the sciences. I have experience reading and interpreting scientific writing, as well as confucting studies and working in a lab environment. These days, I find myself looking into international events, social issues, and technology.',
     active: # Add true to select section
   }
-
-
 
 #-------------------------------
 # Portfolio (Section and Page)
