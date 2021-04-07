@@ -131,8 +131,8 @@ services:
   }
 - {
     name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    icon: ti-heart,
+    description: 'Art has always been a big, often therapeutic, part of my life. I studied art through my senior year of high school and still enjoy it my free time. Art takes many forms in my life, whether on a canvas, piece of paper, computer screen, through a camera lense, and in everyday life.',
     active: true # Add true to select section
   }
 - {
