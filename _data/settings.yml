@@ -126,19 +126,19 @@ services:
 - {
     name: UI Design,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I studied art through my senior year of high school and still enjoy it my free time.',
     active: # Add true to select section
   }
 - {
     name: UX Design,
     icon: ti-heart,
-    description: 'I love helping people solve everyday problems.',
+    description: 'I love helping people solve everyday problems: finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.',
     active: true # Add true to select section
   }
 - {
     name: Interaction Design,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I have experience reading and interpreting scientific writing, as well as confucting studies and working in a lab environment.',
     active: # Add true to select section
   }
 
