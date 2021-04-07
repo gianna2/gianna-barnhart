@@ -124,21 +124,21 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Art and Photography,
     icon: ti-palette,
     description: 'I studied art through my senior year of high school and still enjoy it my free time. It takes many forms in my life-on canvas, paper, computer screen, through a camera lense, and in everyday life.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Advocacy & Career Coaching,
     icon: ti-heart,
     description: 'I love helping people solve everyday problems: finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Research,
     icon: ti-panel,
-    description: 'I have experience reading and interpreting scientific writing, as well as confucting studies and working in a lab environment.',
+    description: 'I have experience reading and interpreting scientific writing, as well as confucting studies and working in a lab environment.     ',
     active: # Add true to select section
   }
 
