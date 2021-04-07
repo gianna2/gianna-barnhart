@@ -132,7 +132,7 @@ services:
 - {
     name: Advocacy and Career Coaching,
     icon: ti-heart,
-    description: 'I love helping people solve everyday problems, like finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.',
+    description: 'I love helping people solve everyday problems, like <strong>finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.</strong> I've taken on advocacy roles professionally, as well as in my personal. ',
     active: true # Add true to select section
   }
 - {
@@ -235,20 +235,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "Gemma"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation : "My great pyrenees mix rescue."
+    content : "Gemma seems to think she is a person. She is incredibly smart and very communicative, but also a giant goofball. She has an uncanny ability to communicate what she wants. Her and Athena both enjoy bird watching and hanging out under beds together. She is definitely the annoying little sister, but her and Clara love each other to pieces."
     
-  - name: "Jesica Gomez"
+  - name: "Clara (aka "Bear")"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "My black lab and oldest child."
+    content: "Clara was trained as a service dog to help me when I faint (I do that a lot... long story) but is now enjoying a comfy early retirement after an intestinal issue requiring massive surgery. She saved my mother's life getting help from a neighbor when my mother collapse outside due to a stomach rupture. She demands and receives all the attention and love."
     
-  - name: "Jesica Gomez"
+  - name: "Athena"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "Techincally my roommate's cat but CEO of the house."
+    content: "Technically my roommate's cat but I was the one to pick her up from a gas station. She was rescued when her mother gave birth to her on a kind family's deck in the middle of a snowstorm.  Athena grew up with my dogs and is <strong>100% the boss</strong> of them. She introduced the dogs to cat tv—sitting on top of the couch and watching birds at the window bird feeders."
 
 
 #-------------------------------
