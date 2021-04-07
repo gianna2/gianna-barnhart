@@ -121,7 +121,7 @@ education:
 #-------------------------------
 # Services Section
 
-ervices-title: Services
+services-title: Services
 services:
 - {
     name: UI Design,
@@ -131,7 +131,7 @@ services:
   }
 - {
     name: UX Design,
-    icon: ti-vector,
+    icon: ti-heart,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
