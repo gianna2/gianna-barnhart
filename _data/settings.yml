@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Gianna
-logo: "assets/images/favicon.png"
+logo:
 author: Gianna Barnhart
 description: Welcome to my website!
 email: giannabarnhart@gmail.com
