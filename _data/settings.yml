@@ -166,36 +166,40 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "Marketing",
     type : "design"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Art",
+    type : "art"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Modeling",
+    type : "modeling"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/FR.png"
     url: "#"
     portfolio-type:
      - type: "design"
-     - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-2.png"
+     
+  - image : "assets/images/portfolio/feed.jpg"
     url: "#"
     portfolio-type:
-      - type: "branding"
+     - type: "design"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/kauit"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "design"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/portfolio/ODVL.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/nidra.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
@@ -206,7 +210,7 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/reminder.png"
     url: "#"
     portfolio-type:
       - type: "design"
