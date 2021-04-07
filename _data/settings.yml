@@ -132,7 +132,7 @@ services:
 - {
     name: UX Design,
     icon: ti-heart,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I love helping people solve everyday problems, like finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services. I've taken on advocacy roles professionally, as well as in my personal.',
     active: true # Add true to select section
   }
 - {
