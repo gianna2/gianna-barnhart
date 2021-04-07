@@ -189,7 +189,7 @@ portfolio-items:
     portfolio-type:
      - type: "design"
       
-  - image : "assets/images/portfolio/kauit"
+  - image : "assets/images/portfolio/kauit.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
@@ -203,12 +203,12 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "branding"
+      - type: "modeling"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "modeling"
       
   - image : "assets/images/portfolio/reminder.png"
     url: "#"
@@ -218,19 +218,19 @@ portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "modeling"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "modeling"
+      - type: "art"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "art"
 
 
 #-------------------------------
