@@ -126,7 +126,7 @@ services:
 - {
     name: UI Design,
     icon: ti-palette,
-    description: 'I studied art through my senior year of high school and still enjoy it my free time.',
+    description: 'I studied art through my senior year of high school and still enjoy it my free time. It takes many forms in my life-on canvas, paper, computer screen, through a camera lense, and in everyday life.',
     active: # Add true to select section
   }
 - {
