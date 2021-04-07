@@ -8,7 +8,6 @@ description: Welcome to my website!
 email: giannabarnhart@gmail.com
 phone: +207 522 65 78
 address: Winooski, VT, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
