@@ -132,7 +132,7 @@ services:
 - {
     name: Advocacy and Career Coaching,
     icon: ti-heart,
-    description: 'I love helping people solve everyday problems, like <strong>finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.</strong> I've taken on advocacy roles professionally, as well as in my personal. ',
+    description: 'I love helping people solve everyday problems, like, <strong>finding jobs, accessing educational opportunities, navigating the medical world, and finding community/social support services.</strong> I've taken on advocacy roles professionally, as well as in my personal. ',
     active: true # Add true to select section
   }
 - {
@@ -248,7 +248,7 @@ testimonial-items:
   - name: "Athena"
     image: "assets/images/testimonial/athena.HEIC"
     designation: "Techincally my roommate's cat but CEO of the house."
-    content: "Technically my roommate's cat but I was the one to pick her up from a gas station. She was rescued when her mother gave birth to her on a kind family's deck in the middle of a snowstorm.  Athena grew up with my dogs and is <strong>100% the boss</strong> of them. She introduced the dogs to cat tv—sitting on top of the couch and watching birds at the window bird feeders.",
+    content: "Technically my roommate's cat but I was the one to pick her up from a gas station. She was rescued when her mother gave birth to her on a kind family's deck in the middle of a snowstorm.  Athena grew up with my dogs and is, <strong>100% the boss</strong> of them. She introduced the dogs to cat tv—sitting on top of the couch and watching birds at the window bird feeders.",
 
 
 #-------------------------------
