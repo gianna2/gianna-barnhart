@@ -132,7 +132,7 @@ services:
 - {
     name: UX Design,
     icon: ti-vector,
-    description: description: 'Why is this one not working. Please work.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
 - {
