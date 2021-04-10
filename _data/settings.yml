@@ -225,7 +225,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/blue.jpeg"
+  - image : "assets/images/portfolio/blue.JPG"
     url: "#"
     portfolio-type:
       - type: "modeling"
