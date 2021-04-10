@@ -199,13 +199,18 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
-      
-  - image : "assets/images/portfolio/rain.jpeg"
+ 
+  - image : "assets/images/portfolio/5jpg"
     url: "#"
     portfolio-type:
       - type: "modeling"
       
- - image : "assets/images/portfolio/reflections.JPG"
+  - image : "assets/images/portfolio/4.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "modeling"
+      
+ - image : "assets/images/portfolio/7.png"
     url: "#"
     portfolio-type:
       - type: "modeling"
@@ -215,31 +220,31 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/blue.JPG"
+  - image : "assets/images/portfolio/5.png"
     url: "#"
     portfolio-type:
       - type: "modeling"
       
-  - image : "assets/images/portfolio/smoke.jpeg"
+  - image : "assets/images/portfolio/6.jpg"
     url: "#"
     portfolio-type:
       - type: "modeling"
       - type: "art"
       
-  - image : "assets/images/portfolio/puppet.jpeg"
+  - image : "assets/images/portfolio/7.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "modeling"
+      
+ - image : "assets/images/portfolio/1.jpg"
     url: "#"
     portfolio-type:
       - type: "art"
       
- - image : "assets/images/portfolio/growth.jpeg"
+- image : "assets/images/portfolio/4.png"
     url: "#"
     portfolio-type:
-      - type: "art"
-      
-- image : "assets/images/portfolio/sunlight.JPG"
-    url: "#"
-    portfolio-type:
-      - type: "modeling"      
+      - type: "art"      
 
 
 
