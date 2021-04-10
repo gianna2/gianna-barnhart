@@ -193,6 +193,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
+      - type: "art"
       
   - image : "assets/images/portfolio/ODVL.jpg"
     url: "#"
@@ -202,7 +203,6 @@ portfolio-items:
   - image : "assets/images/portfolio/nidra.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
       - type: "design"
       
   - image : "assets/images/portfolio/rain.jpeg"
@@ -233,7 +233,6 @@ portfolio-items:
   - image : "assets/images/portfolio/smoke.jpeg"
     url: "#"
     portfolio-type:
-      - type: "design"
       - type: "modeling"
       - type: "art"
       
@@ -251,6 +250,12 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "art"
+      
+- image : "assets/images/portfolio/sunlight.JPG"
+    url: "#"
+    portfolio-type:
+      - type: "modeling"      
+
 
 
 #-------------------------------
