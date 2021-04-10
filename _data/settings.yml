@@ -195,11 +195,6 @@ portfolio-items:
       - type: "design"
       - type: "art"
       
-  - image : "assets/images/portfolio/ODVL.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
   - image : "assets/images/portfolio/nidra.jpg"
     url: "#"
     portfolio-type:
