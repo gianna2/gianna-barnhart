@@ -51,7 +51,7 @@ social:
 blurb: Champlain College | Class of 2021 | Bachelor of Science <br> Digital Marketing, Project Management, Organizational Development & HR
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: More About Me
 
 
 # About Page
@@ -210,11 +210,6 @@ portfolio-items:
     portfolio-type:
       - type: "modeling"
       
- - image : "assets/images/portfolio/lookdown.jpeg"
-    url: "#"
-    portfolio-type:
-      - type: "modeling"
-      
  - image : "assets/images/portfolio/reflections.JPG"
     url: "#"
     portfolio-type:
@@ -242,11 +237,6 @@ portfolio-items:
       - type: "art"
       
  - image : "assets/images/portfolio/growth.jpeg"
-    url: "#"
-    portfolio-type:
-      - type: "art"
-     
-- image : "assets/images/portfolio/sunset.jpeg"
     url: "#"
     portfolio-type:
       - type: "art"
