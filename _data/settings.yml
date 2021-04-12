@@ -228,6 +228,11 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       - type: "branding"
+      
+  - image : "assets/images/portfolio/7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
