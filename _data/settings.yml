@@ -201,7 +201,6 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "branding"
       
   - image : "assets/images/portfolio/4.jpg"
     url: "#"
