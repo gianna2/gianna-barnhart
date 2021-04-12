@@ -161,6 +161,9 @@ portfolio-home-items:
     
   - image : "assets/images/portfolio/1.jpg"
     url: "#"
+  
+  - image : "assets/images/portfolio/4.jpg"
+    url: "#"
 
 
 # Portfolio Page
