@@ -200,7 +200,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
  
-  - image : "assets/images/portfolio/5jpg"
+  - image : "assets/images/portfolio/water.png"
     url: "#"
     portfolio-type:
       - type: "modeling"
