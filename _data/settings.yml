@@ -114,7 +114,6 @@ education-title: Education
 education:
 - {name: B.S Integrated Studies, date: '2019 - 2021', organization: 'Champlain College | Burlington, VT'}
 - {name: B.S. Neuroscience, date: '2017 - 2019', organization: 'University of Vermont | Burlington, VT'}
-- {name: High School, date: '2017', organization: 'Brunswick High School | Brunswick, ME'}
 
 
 #-------------------------------
