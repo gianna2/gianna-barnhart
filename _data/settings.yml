@@ -226,14 +226,18 @@ portfolio-items:
   - image : "assets/images/portfolio/9.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
       - type: "branding"
+      
+  - image : "assets/images/portfolio/7.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
       
   - image : "assets/images/portfolio/7.png"
     url: "#"
     portfolio-type:
+      - type: "design"
       - type: "illustration"
-
 #-------------------------------
 # Testimonials Section
 
