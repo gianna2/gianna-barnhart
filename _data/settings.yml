@@ -213,7 +213,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/4.png"
+  - image : "assets/images/portfolio/puppet.jpeg"
     url: "#"
     portfolio-type:
       - type: "branding"
