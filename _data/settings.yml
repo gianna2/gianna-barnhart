@@ -150,7 +150,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/kauit.jpg"
     url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/6.jpg"
     url: "#"
     
   - image : "assets/images/portfolio/feed.jpg"
@@ -159,7 +159,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/FR.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/1.jpg"
     url: "#"
 
 
@@ -184,12 +184,12 @@ portfolio-items:
     portfolio-type:
      - type: "design"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/1.jpg"
     url: "#"
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/6.jpg"
     url: "#"
     portfolio-type:
       - type: "illustration"
@@ -200,7 +200,7 @@ portfolio-items:
       - type: "design"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/4.jpg"
     url: "#"
     portfolio-type:
       - type: "illustration"
@@ -210,7 +210,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/4.png"
     url: "#"
     portfolio-type:
       - type: "branding"
@@ -220,13 +220,12 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
-      - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
+  - image : "assets/images/portfolio/9.jpg"
     url: "#"
     portfolio-type:
       - type: "illustration"
-
+      - type: "branding"
 
 #-------------------------------
 # Testimonials Section
