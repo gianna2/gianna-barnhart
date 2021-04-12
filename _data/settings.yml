@@ -260,7 +260,13 @@ portfolio-items:
   - image : "assets/images/portfolio/silkscreen.jpeg"
     url: "#"
     portfolio-type:
-      - type: "branding"     
+      - type: "branding"   
+      
+  - image : "assets/images/portfolio/3.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
 #-------------------------------
 # Testimonials Section
 
