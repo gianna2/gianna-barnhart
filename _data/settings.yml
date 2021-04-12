@@ -235,7 +235,6 @@ portfolio-items:
   - image : "assets/images/portfolio/7.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
       - type: "illustration"
       
   - image : "assets/images/portfolio/YFL.jpg"
@@ -257,6 +256,11 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration" 
+      
+  - image : "assets/images/portfolio/silkscreen.jpeg"
+    url: "#"
+    portfolio-type:
+      - type: "branding"     
 #-------------------------------
 # Testimonials Section
 
