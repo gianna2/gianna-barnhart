@@ -183,12 +183,6 @@ portfolio-items:
     url: "#"
     portfolio-type:
      - type: "design"
-     
- portfolio-items:
-  - image : "assets/images/portfolio/feed.jpg"
-    url: "#"
-    portfolio-type:
-     - type: "design"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
