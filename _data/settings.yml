@@ -215,7 +215,7 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/feed.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
