@@ -238,6 +238,17 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
+      
+  - image : "assets/images/portfolio/YFL.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design" 
+      
+  - image : "assets/images/portfolio/ODVL.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"      
+ 
 #-------------------------------
 # Testimonials Section
 
