@@ -241,7 +241,7 @@ portfolio-items:
     portfolio-type:
       - type: "design" 
       
-  - image : "assets/images/portfolio/ODVL.jpg"
+  - image : "assets/images/portfolio/nidra.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
