@@ -5,19 +5,19 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: gianna-barnhart/assets
+  path: assets
   label: assets
   create: all
   match: "**/*"
   new_doc_ext: html
 - type: directory
-  path: gianna-barnhart/_pages
+  path: _pages
   label: pages
   create: all
   match: "**/*"
   new_doc_ext: html
 - type: document
-  path: gianna-barnhart/_projects
+  path: _projects
   label: projects
 - type: jekyll-posts
   label: Posts
