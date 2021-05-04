@@ -7,6 +7,10 @@ fields:
   config:
     required: false
   label: title
+- name: image_upload
+  type: image_gallery
+  config: {}
+  label: image upload
 - name: text
   type: textarea
   default: ''
