@@ -9,7 +9,7 @@ sections:
   label: Assets
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: gianna-barnhart/_pages
   label: Pages
