@@ -5,11 +5,23 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _layouts
+  label: layouts
+  create: all
+  match: "**/*"
+  new_doc_ext: ".html"
+- type: directory
+  path: _data
+  label: data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
+- type: directory
   path: _includes
   label: includes
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: _pages
   label: pages
