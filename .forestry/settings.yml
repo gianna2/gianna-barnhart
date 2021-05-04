@@ -17,8 +17,8 @@ sections:
 - type: jekyll-pages
   label: Index
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets
+public_path: "/assests/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
