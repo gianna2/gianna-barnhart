@@ -16,11 +16,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
-- type: directory
-  path: gianna-barnhart/assets/images
-  label: images
-  create: all
-  match: "**/*"
 - type: document
   path: gianna-barnhart/_projects
   label: Projects
