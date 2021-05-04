@@ -24,3 +24,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- _pages/project-1.html
