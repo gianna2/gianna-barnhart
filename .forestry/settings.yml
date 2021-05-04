@@ -4,10 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: gianna-barnhart/_projects
+  label: Projects
+  match: "**/*"
+  read_only: false
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ".blog"
+  new_doc_ext: blog
 - type: jekyll-pages
   label: Pages
   create: all
