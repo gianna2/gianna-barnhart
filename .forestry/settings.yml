@@ -6,19 +6,19 @@ webhook_url:
 sections:
 - type: directory
   path: gianna-barnhart/assets
-  label: Assets
+  label: assets
   create: all
   match: "**/*"
   new_doc_ext: html
 - type: directory
   path: gianna-barnhart/_pages
-  label: Pages
+  label: pages
   create: all
   match: "**/*"
   new_doc_ext: html
 - type: document
   path: gianna-barnhart/_projects
-  label: Projects
+  label: projects
 - type: jekyll-posts
   label: Posts
   create: all
