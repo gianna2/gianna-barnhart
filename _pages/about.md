@@ -6,7 +6,7 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Welcome to my website and thank you for taking the time to explore. I made this wedsite after semi-impulsively buying my name domain and decided to take it on as a little side project. 
+Welcome to my website and thank you for taking the time to explore. I made this wedsite after semi-impulsively buying my name domain and decided to take it on as a little side project. I'm hosting this site through GitHub (my first time using GitHub actually!) and I'd love to hear from other developers with any tips on optimizing content and/or making this site for accessible. 
 
 I'm living in Winooski, VT with my little house family, two dogs, and a cat. We've been at our current residence for several years now and love the Winooski community. For work, I am employed by both Evolution Physical Therapy & Yoga and Champlain College. For Evolution, I spearhead marketing and manage their social media, in addition to administrative duties related to the physical therapy side of the business. This fall I accepted a job with Champlain's career collaborative. In the fall semester, I served as a Peer Financial Coach with the Champlain Career Collaborative. As a financial coach, I helped students develop financial literacy skills and facilitated events--virtually due to COVID restrictions. Currently, through May, I am now operating as a Peer Career Coach in a similar capacity. As a career coach, I work with students one-on-one to identify and search for jobs, find resources, prepare application materials, and complete required InSight Milestones. Though I love both my current employers, I am preparing to apply for post-graduation jobs and hope to start a full-time postion by Fall 2021.
 
